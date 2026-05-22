@@ -1,0 +1,14 @@
+[
+  {
+    "exploration_id": "3bedba87-0438-46c3-922b-87f54015ff63",
+    "query": "去搜索一条可能挑战我现有知识的信息",
+    "result": {
+      "title": "探索性搜索结果",
+      "snippet": "这是一条模拟的搜索结果，代表了与当前认知可能不同的观点。在真实系统中，这里会接入真实的搜索API。",
+      "url": "https://example.com/search/result",
+      "challenging": true,
+      "confidence_impact": -0.05
+    },
+    "timestamp": 1779445951.7097692
+  }
+]
