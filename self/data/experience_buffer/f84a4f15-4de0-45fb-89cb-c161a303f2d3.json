@@ -1,0 +1,9 @@
+{
+  "capsule_id": "f84a4f15-4de0-45fb-89cb-c161a303f2d3",
+  "source_agent": "explorer",
+  "task_id": "d07aefd3-6a86-4581-8c97-543781ad6a29",
+  "content": "标题: 探索性搜索结果\n摘要: 这是一条模拟的搜索结果，代表了与当前认知可能不同的观点。在真实系统中，这里会接入真实的搜索API。",
+  "confidence_impact": -0.05,
+  "timestamp": 1779445951.7110744,
+  "content_hash": "00d8edbeb1c23b9b7ab7ef28f559a05aa20efb205780a02e0f382536269acdd0"
+}

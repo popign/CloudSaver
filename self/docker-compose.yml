@@ -1,0 +1,29 @@
+version: '3.8'
+
+services:
+  self:
+    build: .
+    container_name: self-system
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./data:/app/data
+      - ./config:/app/config:ro
+    environment:
+      - PYTHONUNBUFFERED=1
+    command: python main.py
+    restart: unless-stopped
+
+  console:
+    build: .
+    container_name: self-console
+    ports:
+      - "8001:8000"
+    volumes:
+      - ./data:/app/data
+      - ./config:/app/config:ro
+    environment:
+      - PYTHONUNBUFFERED=1
+    command: python -m src.console.app
+    restart: unless-stopped
+
