@@ -7,7 +7,7 @@ import GlobalSetting from "../models/GlobalSetting";
 
 @injectable()
 export class UserService {
-  private isValidInput(input: string): boolean {
+  isValidInput(input: string): boolean {
     // 检查是否包含空格或汉字
     const regex = /^[^\s\u4e00-\u9fa5]+$/;
     return regex.test(input);
