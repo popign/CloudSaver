@@ -1,0 +1,9 @@
+{
+  "capsule_id": "d6f43d1b-ce45-45af-9945-c7b7968e38a5",
+  "source_agent": "explorer",
+  "task_id": "test-full-flow",
+  "content": "标题: 完整流程测试\n摘要: 这是一个完整的测试摘要",
+  "confidence_impact": -0.1,
+  "timestamp": 1779452196.680028,
+  "content_hash": "1599e32b3e70850f884fdc33074721e6fbda189d7b13b5bb799d09e2ab0a7a8d"
+}

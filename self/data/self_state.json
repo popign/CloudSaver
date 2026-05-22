@@ -1,11 +1,11 @@
 {
-  "timestamp": 1779445951.711446,
+  "timestamp": 1779452196.7525475,
   "oracle_state": {
     "identity": "SELF - Slow Thinking Core",
     "version": "v0.1-mvp",
-    "cognitive_clarity": 0.695,
+    "cognitive_clarity": 0.705,
     "last_reflection": {
-      "timestamp": 1779445946.7043612,
+      "timestamp": 1779452196.7484577,
       "cognitive_clarity": 0.7,
       "contradictions": [
         "知识基为空，需要探索新信息",
@@ -22,10 +22,10 @@
         "last_reflection": null,
         "knowledge_base": [
           {
-            "capsule_id": "f84a4f15-4de0-45fb-89cb-c161a303f2d3",
-            "content": "标题: 探索性搜索结果\n摘要: 这是一条模拟的搜索结果，代表了与当前认知可能不同的观点。在真实系统中，这里会接入真实的搜索API。",
-            "confidence_impact": -0.05,
-            "timestamp": 1779445951.7110744
+            "capsule_id": "integration-test",
+            "content": "集成测试内容",
+            "confidence_impact": 0.05,
+            "timestamp": 1779452196.75247
           }
         ],
         "active_tasks": []
@@ -33,21 +33,35 @@
     },
     "knowledge_base": [
       {
-        "capsule_id": "f84a4f15-4de0-45fb-89cb-c161a303f2d3",
-        "content": "标题: 探索性搜索结果\n摘要: 这是一条模拟的搜索结果，代表了与当前认知可能不同的观点。在真实系统中，这里会接入真实的搜索API。",
-        "confidence_impact": -0.05,
-        "timestamp": 1779445951.7110744
+        "capsule_id": "integration-test",
+        "content": "集成测试内容",
+        "confidence_impact": 0.05,
+        "timestamp": 1779452196.75247
       }
     ],
     "active_tasks": [
       {
-        "task_id": "d07aefd3-6a86-4581-8c97-543781ad6a29",
+        "task_id": "8af635fd-3a6a-4f94-854d-4e2e9c8c9207",
         "agent_type": "explorer",
-        "goal": "去搜索一条可能挑战我现有知识的信息",
-        "success_criteria": "找到并记录一条具有挑战性的信息",
+        "goal": "搜索可能挑战现有知识的信息",
+        "success_criteria": "找到至少一条与当前认知不同的观点",
         "priority": "high"
+      },
+      {
+        "task_id": "3e1939a9-d6fa-47b3-bf7d-f0e6a702d52d",
+        "agent_type": "survival",
+        "goal": "检查系统资源状态",
+        "success_criteria": "生成完整的系统生存报告",
+        "priority": "medium"
+      },
+      {
+        "task_id": "6b6ca4b9-d29b-4837-9205-1f8c4bcfe3da",
+        "agent_type": "reflector",
+        "goal": "反思当前决策逻辑",
+        "success_criteria": "生成对立论证",
+        "priority": "medium"
       }
     ]
   },
-  "task_batch_id": "af565d7a-6803-46d3-97f0-1326385f60a1"
+  "task_batch_id": "f0f5aaa7-86a2-4c43-8c1b-1f560f0e6bfe"
 }

@@ -10,5 +10,149 @@
       "confidence_impact": -0.05
     },
     "timestamp": 1779445951.7097692
+  },
+  {
+    "exploration_id": "4c7fdc77-3010-4fbb-9c59-6c4cee3141b2",
+    "query": "测试目标",
+    "result": {
+      "title": "探索性搜索结果",
+      "snippet": "这是一条模拟的搜索结果，代表了与当前认知可能不同的观点。在真实系统中，这里会接入真实的搜索API。",
+      "url": "https://example.com/search/result",
+      "challenging": true,
+      "confidence_impact": -0.05
+    },
+    "timestamp": 1779452033.8900235
+  },
+  {
+    "exploration_id": "600a07db-7d24-438c-910f-deb5da6cd656",
+    "query": "测试探索",
+    "result": {
+      "title": "探索性搜索结果",
+      "snippet": "这是一条模拟的搜索结果，代表了与当前认知可能不同的观点。在真实系统中，这里会接入真实的搜索API。",
+      "url": "https://example.com/search/result",
+      "challenging": true,
+      "confidence_impact": -0.05
+    },
+    "timestamp": 1779452038.89866
+  },
+  {
+    "exploration_id": "acf437fc-1196-448f-8a56-6809bc9e4d5b",
+    "query": "测试日志",
+    "result": {
+      "title": "探索性搜索结果",
+      "snippet": "这是一条模拟的搜索结果，代表了与当前认知可能不同的观点。在真实系统中，这里会接入真实的搜索API。",
+      "url": "https://example.com/search/result",
+      "challenging": true,
+      "confidence_impact": -0.05
+    },
+    "timestamp": 1779452043.907654
+  },
+  {
+    "exploration_id": "b6383a51-7830-4303-a25e-08eb0dde94d0",
+    "query": "测试目标",
+    "result": {
+      "title": "探索性搜索结果",
+      "snippet": "这是一条模拟的搜索结果，代表了与当前认知可能不同的观点。在真实系统中，这里会接入真实的搜索API。",
+      "url": "https://example.com/search/result",
+      "challenging": true,
+      "confidence_impact": -0.05
+    },
+    "timestamp": 1779452073.3839872
+  },
+  {
+    "exploration_id": "4d52832f-bde1-4ac4-8186-cbd9ce02fc08",
+    "query": "测试探索",
+    "result": {
+      "title": "探索性搜索结果",
+      "snippet": "这是一条模拟的搜索结果，代表了与当前认知可能不同的观点。在真实系统中，这里会接入真实的搜索API。",
+      "url": "https://example.com/search/result",
+      "challenging": true,
+      "confidence_impact": -0.05
+    },
+    "timestamp": 1779452078.3933172
+  },
+  {
+    "exploration_id": "2cbaff31-4c24-4123-9c32-0d853b00a698",
+    "query": "测试日志",
+    "result": {
+      "title": "探索性搜索结果",
+      "snippet": "这是一条模拟的搜索结果，代表了与当前认知可能不同的观点。在真实系统中，这里会接入真实的搜索API。",
+      "url": "https://example.com/search/result",
+      "challenging": true,
+      "confidence_impact": -0.05
+    },
+    "timestamp": 1779452083.4003663
+  },
+  {
+    "exploration_id": "0e993bef-b58e-4101-a5ce-ca2e74bc02b8",
+    "query": "测试目标",
+    "result": {
+      "title": "探索性搜索结果",
+      "snippet": "这是一条模拟的搜索结果，代表了与当前认知可能不同的观点。在真实系统中，这里会接入真实的搜索API。",
+      "url": "https://example.com/search/result",
+      "challenging": true,
+      "confidence_impact": -0.05
+    },
+    "timestamp": 1779452118.4743683
+  },
+  {
+    "exploration_id": "ac987d3e-bb70-4148-8fa4-a9837e81f4db",
+    "query": "测试探索",
+    "result": {
+      "title": "探索性搜索结果",
+      "snippet": "这是一条模拟的搜索结果，代表了与当前认知可能不同的观点。在真实系统中，这里会接入真实的搜索API。",
+      "url": "https://example.com/search/result",
+      "challenging": true,
+      "confidence_impact": -0.05
+    },
+    "timestamp": 1779452123.4834816
+  },
+  {
+    "exploration_id": "b68f9e6d-0d5a-42ed-bc67-d9b9b2e7f57a",
+    "query": "测试日志",
+    "result": {
+      "title": "探索性搜索结果",
+      "snippet": "这是一条模拟的搜索结果，代表了与当前认知可能不同的观点。在真实系统中，这里会接入真实的搜索API。",
+      "url": "https://example.com/search/result",
+      "challenging": true,
+      "confidence_impact": -0.05
+    },
+    "timestamp": 1779452128.4911304
+  },
+  {
+    "exploration_id": "c0668789-9b09-412b-a8cf-607323d0b306",
+    "query": "测试目标",
+    "result": {
+      "title": "探索性搜索结果",
+      "snippet": "这是一条模拟的搜索结果，代表了与当前认知可能不同的观点。在真实系统中，这里会接入真实的搜索API。",
+      "url": "https://example.com/search/result",
+      "challenging": true,
+      "confidence_impact": -0.05
+    },
+    "timestamp": 1779452183.5635097
+  },
+  {
+    "exploration_id": "2ba2ca1a-b0e0-4838-bddd-b1ae4290b807",
+    "query": "测试探索",
+    "result": {
+      "title": "探索性搜索结果",
+      "snippet": "这是一条模拟的搜索结果，代表了与当前认知可能不同的观点。在真实系统中，这里会接入真实的搜索API。",
+      "url": "https://example.com/search/result",
+      "challenging": true,
+      "confidence_impact": -0.05
+    },
+    "timestamp": 1779452188.5768998
+  },
+  {
+    "exploration_id": "129b14d3-83ad-4638-a863-568dc73f4470",
+    "query": "测试日志",
+    "result": {
+      "title": "探索性搜索结果",
+      "snippet": "这是一条模拟的搜索结果，代表了与当前认知可能不同的观点。在真实系统中，这里会接入真实的搜索API。",
+      "url": "https://example.com/search/result",
+      "challenging": true,
+      "confidence_impact": -0.05
+    },
+    "timestamp": 1779452193.5847309
   }
 ]

@@ -1,0 +1,28 @@
+{
+  "report_id": "a6ad0976-a430-440b-8631-c697ee96b714",
+  "resources": {
+    "cpu_percent": 1.0,
+    "memory": {
+      "total": 6264782848,
+      "available": 5309607936,
+      "percent": 15.2,
+      "used": 955174912
+    },
+    "disk": {
+      "total": 1584180465664,
+      "used": 159485702144,
+      "free": 1344147349504,
+      "percent": 10.6
+    },
+    "timestamp": 1779452196.5951517
+  },
+  "payment": {
+    "balance": 100.0,
+    "currency": "USD",
+    "estimated_monthly_cost": 25.5,
+    "payment_status": "ok",
+    "last_payment": 1778847396.5951571
+  },
+  "status": "healthy",
+  "recommendations": []
+}
